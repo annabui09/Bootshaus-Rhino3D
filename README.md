@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a>
-    <img src="Image/HTWK_Zusatz_de_H_Black_sRGB.png" width="320" alt="fhe logo" />
+    <img src="Image/HTWK_Zusatz_de_H_Black_sRGB.png" width="320" alt="htwk logo" />
   </a>
   <br>
   <h1 align="center">Rhino3D - Bootshausprojekt</h1>
@@ -16,7 +16,7 @@ Kommentar: Beschreibung zum Projekt
 
 <details>
 <summary>Vorbereitung</summary>
-
+ <img src="Image/HTWK_Zusatz_de_H_Black_sRGB.png" width="320" alt="htwk logo" />
 
 </details>
 
