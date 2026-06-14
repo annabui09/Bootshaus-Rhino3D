@@ -12,7 +12,7 @@
 
 
 # Erste 3D-Modellierung mit Rhino3D
-Bereits im ersten Semester bekamm ich erste Einblicke in das CAD-Tool "Rhino3D". Ich hatte die Wahl zwischen einem Bootshaus, einem Aussichtsturm und einem Baumhaus. Ich entschied sich für ein Bootshaus, da ich mich der Herausforderung, am Wasser zu bauen, stellen wollte.
+Bereits im ersten Semester bekamm ich erste Einblicke in das CAD-Tool "Rhino3D". Ich hatte die Wahl zwischen einem Bootshaus, einem Aussichtsturm und einem Baumhaus. Ich entschied mich für ein Bootshaus, da ich mich der Herausforderung, am Wasser zu bauen, stellen wollte.
 
 <details>
 <summary>Vision & Vorbereitung</summary>
