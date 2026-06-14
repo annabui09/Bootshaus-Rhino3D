@@ -47,29 +47,20 @@ Ursprünglich haben wir das Bootshaus mit zwei Motorbooten geplant, weshalb man 
 
 Zur endgültigen Abgabe haben wir A3 Pläne mit zwei Ansichten, eine Isometrie, eine Draufsicht und ein Schnitt erstellt.
 
-2 Ansichten
 
- <img src="Image/PLAN Ansicht.png" width="320" alt="PLAN Ansichten" />
-
-
-Isometrie
-
- <img src="Image/PLAN Isometrie.png" width="320" alt="PLAN Isometrie" />
+ <img src="Image/PLAN Ansicht.png" width="400" alt="PLAN Ansichten" />
 
 
-Grundriss
-
- <img src="Image/PLAN Grundriss.png" width="320" alt="PLAN Grundriss" />
+ <img src="Image/PLAN Isometrie.png" width="400" alt="PLAN Isometrie" />
 
 
-Schnitt
-
-<img src="Image/PLAN Schnitt.png" width="320" alt="PLAN Schnitt" />
+ <img src="Image/PLAN Grundriss.png" width="400" alt="PLAN Grundriss" />
 
 
-Details
+<img src="Image/PLAN Schnitt.png" width="400" alt="PLAN Schnitt" />
 
-<img src="Image/PLAN Details.png" width="320" alt="PLAN Detail" />
+
+<img src="Image/PLAN Details.png" width="400" alt="PLAN Detail" />
 
 </details>
 
