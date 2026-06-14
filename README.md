@@ -12,10 +12,14 @@
 
 
 # Erste 3D-Modellierung mit Rhino3D
-Kommentar: Beschreibung zum Projekt
+Bereits im ersten Semester bekammen wir erste Einblicke in das CAD-Tool "Rhino3D". Als Gruppe hatten wir die Wahl zwischen einem Bootshaus, einem Aussichtsturm und einem Baumhaus. Meine Gruppe entschied sich für ein Bootshaus, da wir uns der Herausforderung, am Wasser zu bauen, stellen wollten.
 
 <details>
-<summary>Vorbereitung</summary>
+<summary>Vision & Vorbereitung</summary>
+Unser Nutzungskonzept für das Boothaus war eine private Nutzung in Form eines Ferienhauses mit Aufbewahrung eines Motorbootes. Inbegriffen sind Wohnbereich, Bad, Küche, Technikraum, Zubehör, Benzin und Balkon sowie eine Steganbindung. 
+
+
+
  <img src="Image/HTWK_Zusatz_de_H_Black_sRGB.png" width="320" alt="htwk logo" />
 
 </details>
