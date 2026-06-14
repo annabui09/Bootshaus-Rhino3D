@@ -56,13 +56,16 @@ Isometrie
 
  <img src="Image/PLAN Isometrie.png" width="320" alt="PLAN Isometrie" />
 
+
 Grundriss
 
  <img src="Image/PLAN Grundriss.png" width="320" alt="PLAN Grundriss" />
 
+
 Schnitt
 
 <img src="Image/PLAN Schnitt.png" width="320" alt="PLAN Schnitt" />
+
 
 Details
 
