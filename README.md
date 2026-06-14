@@ -16,8 +16,10 @@ Bereits im ersten Semester bekammen wir erste Einblicke in das CAD-Tool "Rhino3D
 
 <details>
 <summary>Vision & Vorbereitung</summary>
+
 Unser Nutzungskonzept für das Boothaus war eine private Nutzung in Form eines Ferienhauses mit Aufbewahrung eines Motorbootes. Inbegriffen sind Wohnbereich, Bad, Küche, Technikraum, Zubehör, Benzin und Balkon sowie eine Steganbindung. 
 
+Ersten Skizzen für das Bootshaus:
  <img src="Image/Skizze Bootshaus vorne.png" width="320" alt="Skizze Bootshaus vorne" />
 
  <img src="Image/Skizze Bootshaus hinten.png" width="320" alt="Skizze Bootshaus hinten" />
@@ -27,6 +29,13 @@ Unser Nutzungskonzept für das Boothaus war eine private Nutzung in Form eines F
 <details>
 <summary>Prozess</summary>
 
+Eine wichige Anforderung für das Projekt war der "Skelettbauweise". Skelettbauweise bedeutet, dass die tragende Konstruktion eines Gebäudes aus vertikalen Stützen und horizontalen Trägern besteht.
+
+Da sich unser Boothaus größtenteils über dem Wasser befindet, haben wir unter das Haus und dem Steg Pfahlgründungen mit Stahlseilen aangebracht, um zusätliche Stabilisierung zu gewährleisten.
+
+Neben den erforderten Plänen für verschiedene Ansichten sollten wir außerdem zwei Details modellieren. Wir haben eine Klampe für das Boot und eine Edelstahlschraube mit Öse für die Stahlseile konstruiert.
+
+Ursprünglich haben wir das Bootshaus mit zwei Motorbooten geplant, weshalb man bei der Skizze des Boothauses von vorne zwei Öffnungen sieht. Dies haben wir zu einem Motorboot umgeändert, da der Platz für Technikraum sonst nicht mehr gerreicht hätte. Für mehr Privatsphäre und Schutz haben wir statt einer schlichten Öffnung ein Garagentor für das Boot eingebracht.
 
 </details>
 
