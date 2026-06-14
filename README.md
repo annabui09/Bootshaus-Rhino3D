@@ -32,6 +32,8 @@ Ersten Skizzen für das Bootshaus:
 
 Eine wichige Anforderung für das Projekt war der "Skelettbauweise". Skelettbauweise bedeutet, dass die tragende Konstruktion eines Gebäudes aus vertikalen Stützen und horizontalen Trägern besteht.
 
+ <img src="Image/Skelettbauweise.jpeg" width="320" alt="Skelettbauweise" />
+
 Da sich unser Boothaus größtenteils über dem Wasser befindet, haben wir unter das Haus und dem Steg Pfahlgründungen mit Stahlseilen aangebracht, um zusätliche Stabilisierung zu gewährleisten.
 
 Neben den erforderten Plänen für verschiedene Ansichten sollten wir außerdem zwei Details modellieren. Wir haben eine Klampe für das Boot und eine Edelstahlschraube mit Öse für die Stahlseile konstruiert.
@@ -43,6 +45,28 @@ Ursprünglich haben wir das Bootshaus mit zwei Motorbooten geplant, weshalb man 
 <details>
 <summary>Ergebnisse</summary>
 
+Zur endgültigen Abgabe haben wir A3 Pläne mit zwei Ansichten, eine Isometrie, eine Draufsicht und ein Schnitt erstellt.
+
+2 Ansichten
+
+ <img src="Image/PLAN Ansicht.png" width="320" alt="PLAN Ansichten" />
+
+
+Isometrie
+
+ <img src="Image/PLAN Isometrie.png" width="320" alt="PLAN Isometrie" />
+
+Grundriss
+
+ <img src="Image/PLAN Grundriss.png" width="320" alt="PLAN Grundriss" />
+
+Schnitt
+
+<img src="Image/PLAN Schnitt.png" width="320" alt="PLAN Schnitt" />
+
+Details
+
+<img src="Image/PLAN Details.png" width="320" alt="PLAN Detail" />
 
 </details>
 
