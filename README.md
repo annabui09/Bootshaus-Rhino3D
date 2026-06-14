@@ -18,9 +18,9 @@ Bereits im ersten Semester bekammen wir erste Einblicke in das CAD-Tool "Rhino3D
 <summary>Vision & Vorbereitung</summary>
 Unser Nutzungskonzept für das Boothaus war eine private Nutzung in Form eines Ferienhauses mit Aufbewahrung eines Motorbootes. Inbegriffen sind Wohnbereich, Bad, Küche, Technikraum, Zubehör, Benzin und Balkon sowie eine Steganbindung. 
 
+ <img src="Image/Skizze Bootshaus vorne.png" width="320" alt="Skizze Bootshaus vorne" />
 
-
- <img src="Image/HTWK_Zusatz_de_H_Black_sRGB.png" width="320" alt="htwk logo" />
+ <img src="Image/Skizze Bootshaus hinten.png" width="320" alt="Skizze Bootshaus hinten" />
 
 </details>
 
